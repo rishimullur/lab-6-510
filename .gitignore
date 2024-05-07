@@ -1,3 +1,16 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Streamlit
+.cache/
+streamlit/
+.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
