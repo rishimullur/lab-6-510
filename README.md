@@ -11,13 +11,13 @@ This is a simple streamlit app that utilizes the Gemini API and Streamlit to act
 1. Clone the repository:
 
     ```shell
-    git clone git@github.com:rishimullur/lab-5-510.git
+    git clone git@github.com:rishimullur/lab-6-510.git
     ```
 
 2. Navigate to the project directory:
 
     ```shell
-    cd lab-5-510
+    cd lab-6-510
     ```
 
 3. Install the required dependencies:
